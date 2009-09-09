@@ -61,7 +61,7 @@ Example of Usage:
 
 import unittest
 from tokenize import untokenize
-from tokenizer import translate
+from yeti.tokenizer import translate
 from cStringIO import StringIO
 import doctest
 import sys

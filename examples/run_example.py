@@ -1,4 +1,4 @@
-import tokenizer
+import yeti.tokenizer
 import unittest
 import runner
 from example import BowlingSpec, FooSpec
